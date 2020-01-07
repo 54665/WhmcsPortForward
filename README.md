@@ -1,4 +1,7 @@
 # WhmcsPortForward
+
+!!! 已停止维护,未来可能会基于Go重写 !!!
+
 可以对接Whmcs进行销售的端口转发系统，支持TCP/UDP及Ipv6/Ipv4端口转发,支持流量统计限制、带宽限制及连接数统计限制,采用Workerman编写.
 
 带宽限制基于iptables ip6tables tc !
